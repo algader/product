@@ -280,6 +280,7 @@ section.faq .card .card-header h5 a.collapsed i:before {
 section.video {
 	min-height: 100vh;
 	position: relative;
+	overflow: hidden;
 }
 
 section.video video {
